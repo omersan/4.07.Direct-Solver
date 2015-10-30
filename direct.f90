@@ -16,7 +16,7 @@
 !-----------------------------------------------------------------------------!
 
 
-program shooting
+program direct
 implicit none
 real*8 ::h,x0,xL,xe,ye,ya,yb
 integer::j,n,np
